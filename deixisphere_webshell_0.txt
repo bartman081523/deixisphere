@@ -1,0 +1,6 @@
+===== Universal Webshell =====
+$ help
+Available commands:
+portal, exegesphere, transmog, semiovectors
+
+Type "command --help" for more info.
